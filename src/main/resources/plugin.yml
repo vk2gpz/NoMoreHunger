@@ -1,0 +1,10 @@
+name: NoMoreHunger
+main: com.vk2gpz.nomorehunger.NoMoreHunger
+version: ${project.version}
+api-version: 1.13
+description: Simple NoMoreHunger
+author: vk2gpz
+
+permissions:
+  nomorehunber:
+    default: op
